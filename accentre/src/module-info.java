@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author DURAI
- *
- */
-module accentre {
-}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="ChromeTest(failed)">
+    <classes>
+      <class name="com.Testng1.TCS001">
+        <methods>
+          <include name="zsearchAproduct"/>
+        </methods>
+      </class> <!-- com.Testng1.TCS001 -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+  <test name="FirefoxTest(failed)">
+    <classes>
+      <class name="com.Testng1.TCS002">
+        <methods>
+          <include name="zsearchAproduct"/>
+        </methods>
+      </class> <!-- com.Testng1.TCS002 -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

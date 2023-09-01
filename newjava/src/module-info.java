@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author DURAI
+ *
+ */
+module newjava {
+}
